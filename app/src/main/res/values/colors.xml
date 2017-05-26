@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#33F5B5</color>
+
+    <color name="fab_color_1">#ff5252</color>
+    <color name="fab_color_1_muted">#ff8080</color>
+    <color name="fab_color_2">#9c27b0</color>
+    <color name="fab_color_2_muted">#a56ab0</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="blue">#00abea</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#00FF00</color>
+    <color name="lightyellow">#ffffff99</color>
+    <color name="lightgray">#ffd3d3d3</color>
+
+    <color name="black">#de000000</color>
+    <color name="body_text_2">#8a000000</color>
+    <color name="body_text_3">#60000000</color>
+    <color name="body_text_4">#44000000</color>
+
+    <color name="body_text_1_inverse">#deffffff</color>
+    <color name="body_text_2_inverse">#8affffff</color>
+
+    <color name="theme_accent_1">#00b0ff</color>
+    <color name="theme_accent_1_light">#8ad4fa</color>
+
+    <color name="theme_accent_2">#e91e63</color>
+
+    <color name="home_pane_header">#99000000</color>
+
+    <color name="sliding_pane_content_fade">#cceeeeee</color>
+    <color name="sticky_block_background">#ddffffff</color>
+
+    <color name="map_info_1">#ff000000</color>
+    <color name="map_info_2">#ff777777</color>
+    <color name="map_floorselect_active">#FF000000</color>
+    <color name="map_floorselect_inactive">#FF333333</color>
+
+    <color name="gray_background">#e5e5e5</color>
+    <color name="dark_divider">#32000000</color>
+
+    <color name="navdrawer_background">#ffffffff</color>
+    <color name="navdrawer_text_color_disabled">@color/bright_foreground_disabled_material_light</color>
+    <color name="navdrawer_icon_tint">#888</color>
+
+    <color name="refresh_progress_1">@color/theme_accent_2</color>
+    <color name="refresh_progress_2">@color/theme_accent_1</color>
+
+    <color name="data_item_background_light">#ffffff</color>
+    <color name="data_item_lightbg_title">#404040</color>
+    <color name="data_item_lightbg_body_text">#707070</color>
+    <color name="data_item_lightbg_dim_text">#e0e0e0</color>
+
+    <color name="worksite_photo_scrim">#6000</color>
+
+    <color name="no_track_branding_worksite_tile_overlay">#8333</color>
+    <color name="no_track_branding_worksite_color">#333</color>
+
+    <color name="worksite_color_1">#404040</color>
+    <color name="worksite_color_2">#707070</color>
+    <color name="worksite_color_3">#F0F0F0</color>
+
+    <color name="nearby_header_color">#00c</color>
+    <color name="nearby_url_color">#0a0</color>
+    <color name="nearby_description_color">@color/body_text_2</color>
+
+    <color name="list_dropdown_foreground_normal">#ff333333</color>
+    <color name="list_dropdown_divider_color">#92a3a3a3</color>
+    <color name="light_gray">#eee0e0e0</color>
+
+    <color name="translucent_actionbar_background">#cc3f51b5</color>
+    <color name="translucent_statusbar_background">#cc3f51b5</color>
+
+    <color name="tab_selected_strip">@color/theme_accent_1</color>
+
+    <color name="my_schedule_conflict">#db4437</color>
+
+    <color name="perchart_solid">#3dd0ad</color>
+    <color name="perchart_light">#d6e9e9</color>
+</resources>

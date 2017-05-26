@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhijitk\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_58dfc0bdcd3b353ee92814a5c241a5217ae9bebe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9d3a38309c2ddca36efd6823a94d6d9352be6245">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_99717fcdc61ea1a9b83ff937637508ca1006d1b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c13760eac2e01fc366ec4b5059cd313dcad6bb53">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f72f9e60b3292c8558dc271f61a07323d10b18c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhijitk\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.1.0\89d827ffa47c241f2627421ef1d6c7a8c207a341\org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.client.mqttv3-1.1.0_c0fbde2cb7b72f17b557dee0a8923552c29e20ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8369d67ab2e7430db919ed490a91cc682b4e8639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhijitk\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.22\c6789de00db9d1f93faec881fa0c1f5960fb8a15\aws-android-sdk-core-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.2.22_3b93b191880bd7380d9c4fd980846f6b5fc869ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_63d20399b70170d30d18fa494b754a022690f619\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_31f11e7a3dd6ca585b634b1b8e0b5c251359cd7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\abhijitk\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-iot\2.2.22\f0753db8c9be1b837d4922a342e506d51c6bf924\aws-android-sdk-iot-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f0753db8c9be1b837d4922a342e506d51c6bf924">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-iot-2.2.22_08d7b05975126f705ab135056dbf4dadff39197d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-21.0.3_d6121a030bd5b618f818d9df93730f1e60cb2f83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_86d226bdce886198ed71165891c2e69a5d63def7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\AndroidStudioProject\DryPipeValveMonitoring\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_3755f3531706575b17a0bea870403f600e059801\classes.dex" />
+    </item>
+
+</items>
